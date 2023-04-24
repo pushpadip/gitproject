@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNG.before_after"/>
+      <class name="testNG.Test3"/>
+       <class name="testNG.Test4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
